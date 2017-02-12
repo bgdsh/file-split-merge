@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/bgdsh/file-split-merge/issues"
   },
-  "homepage": "https://github.com/bgdsh/file-split-merge#readme"
+  "homepage": "https://github.com/bgdsh/file-split-merge#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "multistream": "^2.1.0"
+  }
 }
