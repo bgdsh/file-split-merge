@@ -1,0 +1,24 @@
+{
+  "name": "file-split-merge",
+  "version": "1.0.0",
+  "description": "split a large file to small pieces; merge small pieces to a large file;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgdsh/file-split-merge.git"
+  },
+  "keywords": [
+    "file",
+    "split",
+    "merge"
+  ],
+  "author": "BainBai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bgdsh/file-split-merge/issues"
+  },
+  "homepage": "https://github.com/bgdsh/file-split-merge#readme"
+}
