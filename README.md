@@ -1,5 +1,7 @@
 # file-split-merge
 ## how to use
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/bgdsh/file-split-merge.svg)](https://greenkeeper.io/)
 install `npm install file-split-merge` 
 
 ```javascript
