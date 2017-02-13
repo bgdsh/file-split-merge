@@ -1,6 +1,6 @@
 # file-split-merge
 ## how to use
-install `npm install file-split-merge` 
+install `npm install file-split-merge --save` 
 
 ```javascript
 const fileSplitMerge = require('file-split-merge');
@@ -16,5 +16,4 @@ fileSplitMerge.merge(
 
 
 ## TODO
-* get success when merge real finished.
 * write down the test code
