@@ -15,9 +15,6 @@ function split(filePath, partSize) {
     .then(getFileStats)
     .then(caculate)
     .then(doSplit)
-    .then((results) => {
-      console.log(results);
-    })
     .catch(Promise.reject);
 }
 
